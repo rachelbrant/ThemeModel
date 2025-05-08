@@ -1,4 +1,4 @@
-GameDate,FormattedDate,Age,YEAR,Theme,ThemeCategory5,Month,ThemeCategory6,Popular,LocationInHomestand,EVENTSCORE,NOSHOW,PCONSID,MONTHUER,TEMPAVGHIGH,TEMPAVGLOW,Item,Promo,TwoThemes,TimeofDay,Day_OF_WEEK,OPPONENT,TIX35DAYSAFTER,threefivedaysvstotal,ThemeTixRelativetoTotal,TotalTix,TICKETS,QUANTITY,PRICE,BRANDED,OPPONENTCAT,ThemeNoShow
+GameDate,FormattedDate,Age,YEAR,Theme,ThemeCategory,Month,ThemeCategory,Popular,LocationInHomestand,EVENTSCORE,NOSHOW,PCONSID,MONTHUER,TEMPAVGHIGH,TEMPAVGLOW,Item,Promo,TwoThemes,TimeofDay,Day_OF_WEEK,OPPONENT,TIX35DAYSAFTER,threefivedaysvstotal,ThemeTixRelativetoTotal,TotalTix,TICKETS,QUANTITY,PRICE,BRANDED,OPPONENTCAT,ThemeNoShow
 "Tuesday, April 12, 2022",4/12/2022,Old,2022,Peanuts #1,Kids,April,Kids_Family,N,Late,"96	",0.2,30841,3.21,78,49,Bobblehead,N,N,N,Tuesday,PIT,228,0.23,0.0246,40398,1873,1150,7.53,N,2,0.41
 "Monday, April 25, 2022",4/25/2022,Old,2022,College Night #1,College,April,College,N,First,"80	",0.28,25658,3.21,59,48,Shirt,N,N,N,Monday,NYM,139,0.32,0.0123,35455,436,850,7.53,N,4,0.15
 "Tuesday, April 26, 2022",4/26/2022,Old,2022,Budweiser Bash #1,Budweiser Bash,April,Sport_FanExperience,N,Early,"63	",0.3,18486,3.21,61,39,Bobblehead,N,N,N,Tuesday,NYM,103,0.12,0.0261,32215,842,600,7.7,N,4,0.16
@@ -159,35 +159,35 @@ GameDate,FormattedDate,Age,YEAR,Theme,ThemeCategory5,Month,ThemeCategory6,Popula
 "Wednesday, September 18, 2024",9/18/2024,Old,2024,DC Comics,DC Comics,September,PopCulture_Entertainment,Y,Late,"40	",0.5,11330,4.1,91,65,Bobblehead,N,N,N,Wednesday,PIT,252,0.14,0.0602,30061,1809,2155,0.49,N,2,0.11
 "Thursday, September 19, 2024",9/19/2024,Old,2024,Hello Kitty,Kids,September,Kids_Family,N,Last,"64	",0.43,21788,4.1,92,67,Bobblehead,Y,N,N,Thursday,PIT,115,0.08,0.0435,32194,1400,2885,0.49,N,2,0.06
 "Friday, September 20, 2024",9/20/2024,Old,2024,90's Night,Decades,September,PopCulture_Entertainment,Y,First,"89	",0.24,27226,4.1,95,75,Longsleeve Shirt,Y,N,N,Friday,CLE,300,0.16,0.0563,33967,1911,2500,1.87,N,1,0.04
-"Monday, March 31, 2025",3/31/2025,Old,2025,Peanuts,Kids,May,Kids_Family,N,Middle,43,0.41,9929,3.6,62,43,Bobblehead,N,N,N,Monday,LAA,137,0.09,0.0695,21206,1473,2000,8.95,N,3,0.10
+"Monday, March 31, 2025",3/31/2025,Old,2025,Peanuts,Kids,May,Kids_Family,N,Middle,43,0.41,9929,3.6,62,43,Bobblehead,N,N,N,Monday,LAA,137,0.09,0.0695,21206,1473,2000,8.95,N,3,0.1
 "Friday, April 11, 2025",4/11/2025,Old,2025,College Night #1,College,April,College,N,First,110,0.22,32883,3.6,67,46,Hat,Y,N,N,Friday,PHI,63,0.03,0.0592,32309,1913,2000,5.35,Y,2,0.09
 "Sunday, April 13, 2025",4/13/2025,Old,2025,Cancer Awareness,Cancer Awareness,April,CommunityDays,N,Middle,76,0.28,20728,3.6,67,47,Item,Y,N,D,Sunday,PHI,74,0.11,0.0217,32509,704,1250,9.8,Y,2,0.19
 "Friday, April 25, 2025",4/25/2025,Old,2025,Battlehawks,STL Sports,April,STLPride,Y,First,64,0.31,18194,3.6,71,51,Tumbler,N,N,N,Friday,MIL,101,0.13,0.0324,24437,792,2000,8.05,N,2,0.14
 "Sunday, April 27, 2025",4/27/2025,Old,2025,Donate Life Day,Donate Life Day,April,CommunityDays,Y,Last,67,0.29,17699,3.6,72,52,Tumbler,Y,N,D,Sunday,MIL,127,0.07,0.0523,32403,1695,1750,8.05,Y,2,0.07
-"Friday, May 2, 2025",5/2/2025,New,2025,Grateful Dead,Grateful Dead,May,PopCulture_Entertainment,Y,First,88,0.21,19780,3.63,73,53,Longsleeve Shirt,Y,N,N,Friday,NYM,551,0.22,,,2550,,16.5,N,4,
-"Sunday, May 4, 2025",5/4/2025,New,2025,Star Wars,Star Wars,May,PopCulture_Entertainment,Y,Middle,79,0.2,21108,3.63,73,54,Jersey,Y,N,D,Sunday,NYM,632,0.21,,,3078,,7.15,N,4,
-"Tuesday, May 6, 2025",5/6/2025,New,2025,College Night #2,College,May,College,Y,Late,35,0.34,7519,3.63,74,54,Hat,N,N,N,Tuesday,PIT,14,0.20,,,70,,5.9,N,2,
-"Tuesday, May 20, 2025",5/20/2025,New,2025,Nurses Night,Nurses,May,ProfessionalIdentity,Y,Middle,54,0.35,15887,3.63,78,60,Jersey,N,N,N,Tuesday,DET,348,0.27,,,1303,,6.52,N,4,
-"Wednesday, May 21, 2025",5/21/2025,New,2025,Nurses Day #1,Nurses,May,ProfessionalIdentity,Y,Last,61,0.42,16881,3.63,79,60,Jersey,N,N,D,Wednesday,DET,321,0.33,,,959,,6.52,N,4,
-"Friday, May 23, 2025",5/23/2025,New,2025,Margaritaville,Margaritaville,May,Music_Festivals,Y,Middle,80,0.19,23626,3.63,79,60,Shirt,Y,N,N,Friday,ARI,480,0.32,,,1511,,9.3,N,2,
-"Sunday, May 25, 2025",5/25/2025,New,2025,Minecraft,Standalone,May,Kids_Family,Y,Last,91,0.15,18652,3.63,79,61,Hat,Y,N,D,Sunday,ARI,121,0.16,,,735,,7.75,N,2,
-"Wednesday, June 4, 2025",6/4/2025,New,2025,Pickleball Night,Other,June,Sport_FanExperience,Y,Early,60,0.55,18335,4.17,83,65,Item,N,N,N,Wednesday,KCR,46,0.41,,,112,,35,N,2,
-"Friday, June 6, 2025",6/6/2025,New,2025,Pride,Pride,June,CommunityDays,Y,Middle,125,0.17,30956,4.17,84,65,Jersey,Y,N,N,Friday,LAD,300,0.51,,,594,,7.7,Y,1,
-"Sunday, June 8, 2025",6/8/2025,New,2025,Sesame Street,Kids,June,Kids_Family,Y,Middle,127,0.2,26788,4.17,84,66,Bobblehead,Y,N,D,Sunday,LAD,201,0.35,,,574,,14.25,N,1,
-"Monday, June 9, 2025",6/9/2025,New,2025,Teachers Night #1,Teachers,June,ProfessionalIdentity,Y,Middle,65,0.37,19004,4.17,84,66,Jersey,N,N,N,Monday,TOR,318,0.29,,,1097,,6.52,Y,3,
-"Sunday, June 22, 2025",6/22/2025,New,2025,Black Heritage,DEI,June,CommunityDays,Y,Early,78,0.39,14975,4.17,87,69,Jersey,N,N,D,Sunday,CIN,69,0.72,,,96,,8.38,Y,1,
-"Tuesday, June 24, 2025",6/24/2025,New,2025,Mental Health Awareness,Mental Health Awareness,June,CommunityDays,N,Middle,91,0.35,22384,4.17,88,69,Tumbler,N,N,N,Tuesday,CHC,42,0.08,,,541,,8.05,Y,1,
-"Wednesday, June 25, 2025",6/25/2025,New,2025,Illinois,Illinois,June,College,Y,Late,98,0.21,23960,4.17,88,70,Hat,N,Y,N,Wednesday,CHC,26,0.25,,,103,,5.35,Y,1,
-"Wednesday, June 25, 2025",6/25/2025,New,2025,Missouri,Missouri,June,College,Y,Late,98,0.21,23960,4.17,88,70,Hat,N,Y,N,Wednesday,CHC,28,0.36,,,77,,5.35,N,1,
-"Friday, July 11, 2025",7/11/2025,New,2025,Military Night,Military,July,ProfessionalIdentity,Y,Middle,99,0.36,24812,4.36,90,71,Tumbler,N,N,N,Friday,ATL,51,0.23,,,219,,8.05,Y,1,
-"Sunday, July 13, 2025",7/13/2025,New,2025,DC Comics,DC Comics,July,PopCulture_Entertainment,Y,Last,104,0.26,28062,4.36,90,72,Jersey,Y,N,D,Sunday,ATL,105,0.71,,,147,,18.4,N,4,
-"Thursday, July 24, 2025",7/24/2025,New,2025,Harry Potter,Harry Potter,July,PopCulture_Entertainment,Y,First,106,0.37,32436,4.36,89,71,Jersey,Y,N,N,Thursday,SDP,465,0.43,,,1088,,13.55,N,4,
-"Sunday, July 27, 2025",7/27/2025,New,2025,Christmas In July,Christmas In July,July,Music_Festivals,Y,Middle,89,0.29,23123,4.36,89,71,Longsleeve Shirt,Y,N,D,Sunday,SDP,314,0.55,,,573,,10,N,4,
-"Wednesday, July 30, 2025",7/30/2025,New,2025,Barbie,Standalone,July,Kids_Family,Y,Last,59,0.26,15542,4.17,87,69,Jersey,N,N,N,Wednesday,MIA,168,0.47,,,361,,11,N,1,
-"Tuesday, August 12, 2025",8/12/2025,New,2025,Fredbird's Garage Sale,Fredbird's Garage Sale,August,Sport_FanExperience,N,Late,52,0.45,13800,4.21,88,70,All,N,N,N,Tuesday,COL,55,0.09,,,601,,5,N,3,
-"Wednesday, August 27, 2025",8/27/2025,New,2025,SLU,SLU,August,College,Y,Late,48,0.46,14200,4.21,87,68,Hat,N,N,N,Wednesday,PIT,6,0.00,,,2006,,5.35,N,2,
-"Tuesday, September 2, 2025",9/2/2025,New,2025,Hello Kitty,Kids,September,Kids_Family,N,Early,47,0.48,13255,4.07,85,67,Jersey,N,N,N,Tuesday,ATH,107,0.65,,,164,,13.95,N,4,
-"Friday, September 5, 2025",9/5/2025,New,2025,80's Night,Decades,September,PopCulture_Entertainment,Y,Middle,101,0.35,30184,4.07,85,66,Longsleeve Shirt,Y,N,N,Friday,SFG,92,0.66,,,139,,15,N,2,
-"Sunday, September 7, 2025",9/7/2025,New,2025,Fiesta Cardenales,Fiesta Cardenales,September,CommunityDays,Y,Last,82,0.25,20857,4.07,84,65,Longsleeve Shirt,Y,N,N,Sunday,SFG,47,0.69,,,68,,10.75,Y,2,
-"Tuesday, September 16, 2025",9/16/2025,New,2025,1/2 Way St. Pats,1/2 Way St. Pats,September,Music_Festivals,Y,Middle,52,0.5,14492,4.07,81,61,Shirt,N,N,N,Tuesday,CIN,167,0.59,,,281,,6.98,N,1,
-"Friday, September 19, 2025",9/19/2025,New,2025,St. Louis Blues,STL Sports,September,STLPride,Y,Middle,113,0.24,28579,4.07,80,60,Longsleeve Shirt,Y,N,N,Friday,MIL,373,0.51,,,725,,20,N,2,
+"Friday, May 2, 2025",5/2/2025,New,2025,Grateful Dead,Grateful Dead,May,PopCulture_Entertainment,Y,First,88,0.21,19780,3.63,73,53,Longsleeve Shirt,Y,N,N,Friday,NYM,551,0.22,0.1108,29460,3264,5500,16.5,N,4,0.08
+"Sunday, May 4, 2025",5/4/2025,New,2025,Star Wars,Star Wars,May,PopCulture_Entertainment,Y,Middle,79,0.2,21108,3.63,73,54,Jersey,Y,N,D,Sunday,NYM,632,0.21,0.1150,39185,4508,6500,7.15,N,4,0.12
+"Tuesday, May 6, 2025",5/6/2025,New,2025,College Night #2,College,May,College,Y,Late,35,0.34,7519,3.63,74,54,Hat,N,N,N,Tuesday,PIT,14,0.2,0.0024,28748,70,70,5.9,N,2,0.17
+"Tuesday, May 20, 2025",5/20/2025,New,2025,Nurses Night,Nurses,May,ProfessionalIdentity,Y,Middle,54,0.35,15887,3.63,78,60,Jersey,N,N,N,Tuesday,DET,348,0.27,,,,,6.52,N,4,
+"Wednesday, May 21, 2025",5/21/2025,New,2025,Nurses Day #1,Nurses,May,ProfessionalIdentity,Y,Last,61,0.42,16881,3.63,79,60,Jersey,N,N,D,Wednesday,DET,321,0.33,,,,,6.52,N,4,
+"Friday, May 23, 2025",5/23/2025,New,2025,Margaritaville,Margaritaville,May,Music_Festivals,Y,Middle,80,0.19,23626,3.63,79,60,Shirt,Y,N,N,Friday,ARI,480,0.32,,,,,9.3,N,2,
+"Sunday, May 25, 2025",5/25/2025,New,2025,Minecraft,Standalone,May,Kids_Family,Y,Last,91,0.15,18652,3.63,79,61,Hat,Y,N,D,Sunday,ARI,121,0.16,,,,,7.75,N,2,
+"Wednesday, June 4, 2025",6/4/2025,New,2025,Pickleball Night,Other,June,Sport_FanExperience,Y,Early,60,0.55,18335,4.17,83,65,Item,N,N,N,Wednesday,KCR,46,0.41,,,,,35,N,2,
+"Friday, June 6, 2025",6/6/2025,New,2025,Pride,Pride,June,CommunityDays,Y,Middle,125,0.17,30956,4.17,84,65,Jersey,Y,N,N,Friday,LAD,300,0.51,,,,,7.7,Y,1,
+"Sunday, June 8, 2025",6/8/2025,New,2025,Sesame Street,Kids,June,Kids_Family,Y,Middle,127,0.2,26788,4.17,84,66,Bobblehead,Y,N,D,Sunday,LAD,201,0.35,,,,,14.25,N,1,
+"Monday, June 9, 2025",6/9/2025,New,2025,Teachers Night #1,Teachers,June,ProfessionalIdentity,Y,Middle,65,0.37,19004,4.17,84,66,Jersey,N,N,N,Monday,TOR,318,0.29,,,,,6.52,Y,3,
+"Sunday, June 22, 2025",6/22/2025,New,2025,Black Heritage,DEI,June,CommunityDays,Y,Early,78,0.39,14975,4.17,87,69,Jersey,N,N,D,Sunday,CIN,69,0.72,,,,,8.38,Y,1,
+"Tuesday, June 24, 2025",6/24/2025,New,2025,Mental Health Awareness,Mental Health Awareness,June,CommunityDays,N,Middle,91,0.35,22384,4.17,88,69,Tumbler,N,N,N,Tuesday,CHC,42,0.08,,,,,8.05,Y,1,
+"Wednesday, June 25, 2025",6/25/2025,New,2025,Illinois,Illinois,June,College,Y,Late,98,0.21,23960,4.17,88,70,Hat,N,Y,N,Wednesday,CHC,26,0.25,,,,,5.35,Y,1,
+"Wednesday, June 25, 2025",6/25/2025,New,2025,Missouri,Missouri,June,College,Y,Late,98,0.21,23960,4.17,88,70,Hat,N,Y,N,Wednesday,CHC,28,0.36,,,,,5.35,N,1,
+"Friday, July 11, 2025",7/11/2025,New,2025,Military Night,Military,July,ProfessionalIdentity,Y,Middle,99,0.36,24812,4.36,90,71,Tumbler,N,N,N,Friday,ATL,51,0.23,,,,,8.05,Y,1,
+"Sunday, July 13, 2025",7/13/2025,New,2025,DC Comics,DC Comics,July,PopCulture_Entertainment,Y,Last,104,0.26,28062,4.36,90,72,Jersey,Y,N,D,Sunday,ATL,105,0.71,,,,,18.4,N,4,
+"Thursday, July 24, 2025",7/24/2025,New,2025,Harry Potter,Harry Potter,July,PopCulture_Entertainment,Y,First,106,0.37,32436,4.36,89,71,Jersey,Y,N,N,Thursday,SDP,465,0.43,,,,,13.55,N,4,
+"Sunday, July 27, 2025",7/27/2025,New,2025,Christmas In July,Christmas In July,July,Music_Festivals,Y,Middle,89,0.29,23123,4.36,89,71,Longsleeve Shirt,Y,N,D,Sunday,SDP,314,0.55,,,,,10,N,4,
+"Wednesday, July 30, 2025",7/30/2025,New,2025,Barbie,Standalone,July,Kids_Family,Y,Last,59,0.26,15542,4.17,87,69,Jersey,N,N,N,Wednesday,MIA,168,0.47,,,,,11,N,1,
+"Tuesday, August 12, 2025",8/12/2025,New,2025,Fredbird's Garage Sale,Fredbird's Garage Sale,August,Sport_FanExperience,N,Late,52,0.45,13800,4.21,88,70,All,N,N,N,Tuesday,COL,55,0.09,,,,,5,N,3,
+"Wednesday, August 27, 2025",8/27/2025,New,2025,SLU,SLU,August,College,Y,Late,48,0.46,14200,4.21,87,68,Hat,N,N,N,Wednesday,PIT,6,0,,,,,5.35,N,2,
+"Tuesday, September 2, 2025",9/2/2025,New,2025,Hello Kitty,Kids,September,Kids_Family,N,Early,47,0.48,13255,4.07,85,67,Jersey,N,N,N,Tuesday,ATH,107,0.65,,,,,13.95,N,4,
+"Friday, September 5, 2025",9/5/2025,New,2025,80's Night,Decades,September,PopCulture_Entertainment,Y,Middle,101,0.35,30184,4.07,85,66,Longsleeve Shirt,Y,N,N,Friday,SFG,92,0.66,,,,,15,N,2,
+"Sunday, September 7, 2025",9/7/2025,New,2025,Fiesta Cardenales,Fiesta Cardenales,September,CommunityDays,Y,Last,82,0.25,20857,4.07,84,65,Longsleeve Shirt,Y,N,N,Sunday,SFG,47,0.69,,,,,10.75,Y,2,
+"Tuesday, September 16, 2025",9/16/2025,New,2025,1/2 Way St. Pats,1/2 Way St. Pats,September,Music_Festivals,Y,Middle,52,0.5,14492,4.07,81,61,Shirt,N,N,N,Tuesday,CIN,167,0.59,,,,,6.98,N,1,
+"Friday, September 19, 2025",9/19/2025,New,2025,St. Louis Blues,STL Sports,September,STLPride,Y,Middle,113,0.24,28579,4.07,80,60,Longsleeve Shirt,Y,N,N,Friday,MIL,373,0.51,,,,,20,N,2,
