@@ -164,9 +164,9 @@ GameDate,FormattedDate,Age,YEAR,Theme,ThemeCategory,Month,ThemeCategory,Popular,
 "Sunday, April 13, 2025",4/13/2025,Old,2025,Cancer Awareness,Cancer Awareness,April,CommunityDays,N,Middle,76,0.28,20728,3.6,67,47,Item,Y,N,D,Sunday,PHI,74,0.11,0.0217,32509,704,1250,9.8,Y,2,0.19
 "Friday, April 25, 2025",4/25/2025,Old,2025,Battlehawks,STL Sports,April,STLPride,Y,First,64,0.31,18194,3.6,71,51,Tumbler,N,N,N,Friday,MIL,101,0.13,0.0324,24437,792,2000,8.05,N,2,0.14
 "Sunday, April 27, 2025",4/27/2025,Old,2025,Donate Life Day,Donate Life Day,April,CommunityDays,Y,Last,67,0.29,17699,3.6,72,52,Tumbler,Y,N,D,Sunday,MIL,127,0.07,0.0523,32403,1695,1750,8.05,Y,2,0.07
-"Friday, May 2, 2025",5/2/2025,New,2025,Grateful Dead,Grateful Dead,May,PopCulture_Entertainment,Y,First,88,0.21,19780,3.63,73,53,Longsleeve Shirt,Y,N,N,Friday,NYM,551,0.22,0.1108,29460,3264,5500,16.5,N,4,0.08
-"Sunday, May 4, 2025",5/4/2025,New,2025,Star Wars,Star Wars,May,PopCulture_Entertainment,Y,Middle,79,0.2,21108,3.63,73,54,Jersey,Y,N,D,Sunday,NYM,632,0.21,0.1150,39185,4508,6500,7.15,N,4,0.12
-"Tuesday, May 6, 2025",5/6/2025,New,2025,College Night #2,College,May,College,Y,Late,35,0.34,7519,3.63,74,54,Hat,N,N,N,Tuesday,PIT,14,0.2,0.0024,28748,70,70,5.9,N,2,0.17
+"Friday, May 2, 2025",5/2/2025,Old,2025,Grateful Dead,Grateful Dead,May,PopCulture_Entertainment,Y,First,88,0.21,19780,3.63,73,53,Longsleeve Shirt,Y,N,N,Friday,NYM,551,0.22,0.1108,29460,3264,5500,16.5,N,4,0.08
+"Sunday, May 4, 2025",5/4/2025,Old,2025,Star Wars,Star Wars,May,PopCulture_Entertainment,Y,Middle,79,0.2,21108,3.63,73,54,Jersey,Y,N,D,Sunday,NYM,632,0.21,0.115,39185,4508,6500,7.15,N,4,0.12
+"Tuesday, May 6, 2025",5/6/2025,Old,2025,College Night #2,College,May,College,Y,Late,35,0.34,7519,3.63,74,54,Hat,N,N,N,Tuesday,PIT,14,0.2,0.0024,28748,70,70,5.9,N,2,0.17
 "Tuesday, May 20, 2025",5/20/2025,New,2025,Nurses Night,Nurses,May,ProfessionalIdentity,Y,Middle,54,0.35,15887,3.63,78,60,Jersey,N,N,N,Tuesday,DET,348,0.27,,,,,6.52,N,4,
 "Wednesday, May 21, 2025",5/21/2025,New,2025,Nurses Day #1,Nurses,May,ProfessionalIdentity,Y,Last,61,0.42,16881,3.63,79,60,Jersey,N,N,D,Wednesday,DET,321,0.33,,,,,6.52,N,4,
 "Friday, May 23, 2025",5/23/2025,New,2025,Margaritaville,Margaritaville,May,Music_Festivals,Y,Middle,80,0.19,23626,3.63,79,60,Shirt,Y,N,N,Friday,ARI,480,0.32,,,,,9.3,N,2,
