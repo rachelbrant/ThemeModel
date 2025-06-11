@@ -167,14 +167,14 @@ GameDate,FormattedDate,Age,YEAR,Theme,ThemeCategory_5,Month,ThemeCategory_6,Popu
 "Friday, May 2, 2025",5/2/2025,Old,2025,Grateful Dead,Grateful Dead,May,PopCulture_Entertainment,Y,First,88,0.21,19780,3.63,73,53,Longsleeve Shirt,Y,N,N,Friday,NYM,551,0.22,0.1108,29460,3264,5500,20,16.5,N,4,0.08
 "Sunday, May 4, 2025",5/4/2025,Old,2025,Star Wars,Star Wars,May,PopCulture_Entertainment,Y,Middle,79,0.2,21108,3.63,73,54,Jersey,Y,N,D,Sunday,NYM,632,0.21,0.115,39185,4508,6500,12,7.15,N,4,0.12
 "Tuesday, May 6, 2025",5/6/2025,Old,2025,College Night #2,College,May,College,Y,Late,35,0.34,7519,3.63,74,54,Hat,N,N,N,Tuesday,PIT,14,0.2,0.0024,28748,70,70,10,5.9,N,2,0.17
-"Tuesday, May 20, 2025",5/20/2025,New,2025,Nurses Night,Nurses,May,ProfessionalIdentity,Y,Middle,54,0.35,15887,3.63,78,60,Jersey,N,N,N,Tuesday,DET,348,0.27,0.0826,31766,2624,3000,15,6.52,N,4,0.09
-"Wednesday, May 21, 2025",5/21/2025,New,2025,Nurses Day #1,Nurses,May,ProfessionalIdentity,Y,Last,61,0.42,16881,3.63,79,60,Jersey,N,N,D,Wednesday,DET,321,0.33,0.0599,28990,1736,2000,15,6.52,N,4,0.09
-"Friday, May 23, 2025",5/23/2025,New,2025,Margaritaville,Margaritaville,May,Music_Festivals,Y,Middle,80,0.19,23626,3.63,79,60,Shirt,Y,N,N,Friday,ARI,480,0.32,0.1121,34214,3837,5000,12,9.3,N,2,0.10
-"Sunday, May 25, 2025",5/25/2025,New,2025,Minecraft,Standalone,May,Kids_Family,Y,Last,91,0.15,18652,3.63,79,61,Hat,Y,N,D,Sunday,ARI,121,0.16,0.0466,36437,1697,1750,12,7.75,N,2,0.05
-"Wednesday, June 4, 2025",6/4/2025,New,2025,Pickleball Night,Other,June,Sport_FanExperience,Y,Early,60,0.55,18335,4.17,83,65,Item,N,N,N,Wednesday,KCR,46,0.41,,,,,12,35,N,2,
-"Friday, June 6, 2025",6/6/2025,New,2025,Pride,Pride,June,CommunityDays,Y,Middle,125,0.17,30956,4.17,84,65,Jersey,Y,N,N,Friday,LAD,300,0.51,,,,,12,7.7,Y,1,
-"Sunday, June 8, 2025",6/8/2025,New,2025,Sesame Street,Kids,June,Kids_Family,Y,Middle,127,0.2,26788,4.17,84,66,Bobblehead,Y,N,D,Sunday,LAD,201,0.35,,,,,15,14.25,N,1,
-"Monday, June 9, 2025",6/9/2025,New,2025,Teachers Night #1,Teachers,June,ProfessionalIdentity,Y,Middle,65,0.37,19004,4.17,84,66,Jersey,N,N,N,Monday,TOR,318,0.29,,,,,15,6.52,Y,3,
+"Tuesday, May 20, 2025",5/20/2025,Old,2025,Nurses Night,Nurses,May,ProfessionalIdentity,Y,Middle,54,0.35,15887,3.63,78,60,Jersey,N,N,N,Tuesday,DET,348,0.27,0.0826,31766,2624,3000,15,6.52,N,4,0.09
+"Wednesday, May 21, 2025",5/21/2025,Old,2025,Nurses Day #1,Nurses,May,ProfessionalIdentity,Y,Last,61,0.42,16881,3.63,79,60,Jersey,N,N,D,Wednesday,DET,321,0.33,0.0599,28990,1736,2000,15,6.52,N,4,0.09
+"Friday, May 23, 2025",5/23/2025,Old,2025,Margaritaville,Margaritaville,May,Music_Festivals,Y,Middle,80,0.19,23626,3.63,79,60,Shirt,Y,N,N,Friday,ARI,480,0.32,0.1121,34214,3837,5000,12,9.3,N,2,0.1
+"Sunday, May 25, 2025",5/25/2025,Old,2025,Minecraft,Standalone,May,Kids_Family,Y,Last,91,0.15,18652,3.63,79,61,Hat,Y,N,D,Sunday,ARI,121,0.16,0.0466,36437,1697,1750,12,7.75,N,2,0.05
+"Wednesday, June 4, 2025",6/4/2025,Old,2025,Pickleball Night,Other,June,Sport_FanExperience,Y,Early,60,0.55,18335,4.17,83,65,Item,N,N,N,Wednesday,KCR,46,0.41,0.0116,40071,464,500,12,35,N,2,0.13
+"Friday, June 6, 2025",6/6/2025,Old,2025,Pride,Pride,June,CommunityDays,Y,Middle,125,0.17,30956,4.17,84,65,Jersey,Y,N,N,Friday,LAD,300,0.51,0.0861,37465,3224,4000,12,7.7,Y,1,0.1
+"Sunday, June 8, 2025",6/8/2025,Old,2025,Sesame Street,Kids,June,Kids_Family,Y,Middle,127,0.2,26788,4.17,84,66,Bobblehead,Y,N,D,Sunday,LAD,201,0.35,0.0563,42255,2378,1500,15,14.25,N,1,0.12
+"Monday, June 9, 2025",6/9/2025,Old,2025,Teachers Night #1,Teachers,June,ProfessionalIdentity,Y,Middle,65,0.37,19004,4.17,84,66,Jersey,N,N,N,Monday,TOR,318,0.29,0.1213,30851,3745,5000,15,6.52,Y,3,0.05
 "Sunday, June 22, 2025",6/22/2025,New,2025,Black Heritage,DEI,June,CommunityDays,Y,Early,78,0.39,14975,4.17,87,69,Jersey,N,N,D,Sunday,CIN,69,0.72,,,,,12,8.38,Y,1,
 "Tuesday, June 24, 2025",6/24/2025,New,2025,Mental Health Awareness,Mental Health Awareness,June,CommunityDays,N,Middle,91,0.35,22384,4.17,88,69,Tumbler,N,N,N,Tuesday,CHC,42,0.08,,,,,15,8.05,Y,1,
 "Wednesday, June 25, 2025",6/25/2025,New,2025,Illinois,Illinois,June,College,Y,Late,98,0.21,23960,4.17,88,70,Hat,N,Y,N,Wednesday,CHC,26,0.25,,,,,12,5.35,Y,1,
